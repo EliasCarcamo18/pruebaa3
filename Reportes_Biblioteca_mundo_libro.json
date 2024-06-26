@@ -1,0 +1,29 @@
+{
+    "reportes":[
+        {
+            "ReporteID" :1,
+            "Nombre": "Gabriel Garcia Marquez",
+            "Cantidad_Libros":1
+        },
+        {
+            "ReporteID":2,
+            "Nombre": "Isabel allende",
+            "Cantidad_Libros":0
+        },
+        {
+            "ReporteID":3,
+            "Nombre": " Julio Cortazar ",
+            "Cantidad_Libros":10
+        },
+        {
+            "ReporteID":4,
+            "Nombre":"Jorge luis borges",
+            "Cantidad_Libros":7
+        },
+        {
+            "ReporteID":5,
+            "Nombre":"Pablo Neruda",
+            "Cantidad_Libros":5
+        }
+    ]
+}
